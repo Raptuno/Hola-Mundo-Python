@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HolaMundo1", "HolaMundo1.pyproj", "{A1F33A4D-D837-4F60-9FC3-01CEDE0724A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1F33A4D-D837-4F60-9FC3-01CEDE0724A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F33A4D-D837-4F60-9FC3-01CEDE0724A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65C102B8-E5FB-4160-AA31-72251C41C1F0}
+	EndGlobalSection
+EndGlobal
